@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "descricao": "TV não funciona",
+        "prioridade": "Normal",
+        "status": "aberto"
+    },
+    {
+        "id": 2,
+        "descricao": "Novo chamado (3)",
+        "prioridade": "Baixa",
+        "status": "aberto"
+    }
+]
